@@ -12,7 +12,6 @@ The GitHub Action builds these images weekly and publishes them to GHCR:
 ghcr.io/i4lyt/mc-images:21
 ghcr.io/i4lyt/mc-images:25
 ghcr.io/i4lyt/mc-images:26
-ghcr.io/i4lyt/mc-images:latest
 ```
 
 The default base image is `eclipse-temurin:21-jre-jammy`. A compatible base can
